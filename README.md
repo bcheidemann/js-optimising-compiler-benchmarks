@@ -4,7 +4,7 @@ This repository contains benchmarks of optimisation techniques for JavaScript to
 
 Run `deno bench` to generate results.
 
-Read [this article](https://ben.heidemann.dev/posts/optimizing-compilers-for-the-web) for analysis of these benchmarks.
+Read [this article](https://ben.heidemann.dev/posts/optimising-compilers-for-the-web) for analysis of these benchmarks.
 
 ## Results
 
